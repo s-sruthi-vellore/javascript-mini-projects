@@ -63,7 +63,7 @@ A simple stopwatch with icon-based controls.
 ---
 
 ## 🌐 Live Demo
-[**View All Projects Here**](https://s-sruthi-vellore.github.io/js-mini-projects/)  
+[**View All Projects Here**](https://s-sruthi-vellore.github.io/javascript-mini-projects/)  
 
 ---
 
